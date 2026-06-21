@@ -1,0 +1,6 @@
+{
+  "name": "武穴佛手山药",
+  "description": "武穴佛手山药交互信息可视化系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
